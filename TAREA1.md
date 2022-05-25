@@ -4,7 +4,7 @@
 
 ##  Sobre lo aprendido
 
-Aprendí que github es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones de personas de todo el mundo a cooperar en ellos.
+Aprendí que github es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones de personas de todo el mundo a cooperar en ellos.  :computer: :bulb: :mag:
 Se podría hablar de Github como la red social pensada para desarrolladores, siendo este repositorio uno de los más usados a nivel mundial.
 Podemos seguir e interactuar con personas interesadas en un tipo de proyecto en concreto, dando a conocer los nuestros o cooperando en el proyecto de terceros.
 ## Repositorio :smiley:
@@ -26,3 +26,11 @@ Los archivos README habitualmente incluyen información sobre:
 
 ## Pull request  :smiley:
 > Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork.
+
+## Comunidad GitHub :smirk:
+> :blush: La página de tu perfil le cuenta a las personas la historia de tu trabajo a través de los repositorios en los que te interesas, las colaboraciones que has realizado y las conversaciones que has tenido.
+>  :grin: Las personas que visitan tu perfil ven una cronología de tu actividad de colaboración, como las propuestas y las solicitudes de extracción que has abierto, las confirmaciones que has realizado y las solicitudes de extracción que has revisado. Puedes elegir mostrar solo las contribuciones públicas o también incluir las contribuciones privadas, anonimizadas.
+> :wink: Si agregas un archivo de README a la raíz de un repositorio público con el mismo nombre que tu nombre de usuario, dicho README aparecerá automáticamente en tu página de perfil.
+
+
+Muchas Gracias 
