@@ -1,6 +1,6 @@
 # TAREA: Fundamentos de github
 
-[14601a1d2d92694fef3c08d728ce94d5.jpg](https://postimg.cc/QKdXv41w)
+[![kisspng-github-repository-version-control-fork-github-5b335635a441f8-2076005215300910616728.jpg](https://i.postimg.cc/bNJTnTPx/kisspng-github-repository-version-control-fork-github-5b335635a441f8-2076005215300910616728.jpg)](https://postimg.cc/F1M3507z)
 
 ##  Sobre lo aprendido
 
