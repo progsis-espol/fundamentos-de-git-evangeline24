@@ -1,4 +1,7 @@
 # TAREA: Fundamentos de github
+
+[kisspng-github-repository-version-control-fork-github-5b335635a441f8-2076005215300910616728.jpg](https://postimg.cc/F1M3507z)
+
 ##  Sobre lo aprendido
 
 Aprendí que github es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones de personas de todo el mundo a cooperar en ellos.
